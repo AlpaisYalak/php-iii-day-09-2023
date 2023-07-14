@@ -4,4 +4,6 @@
 ## Query Tambah Data
 
 INSERT INTO `siswa` (`id_siswa`, `nama_siswa`, `alamat`, `usisa`, `kelas`, `jk`) VALUES (NULL, 'alpais Yalak', 'Padang Bulan', '26', 'coding', ''), (NULL, 'efata', 'waena', '22', 'php', '');
-    
+
+## GitHub Hasil Belajar Day 09
+https://alpaisyalak.github.io/php-iii-day-09-2023/
